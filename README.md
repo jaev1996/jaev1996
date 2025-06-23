@@ -4,10 +4,10 @@ Soy desarrollador frontend con enfoque en tecnologías como **React**, **Tailwin
 
 ## 🚀 Proyectos destacados
 
-- 🧮 [Calculadora TMB](https://github.com/tu-usuario/tmb-calculator) – Cálculo de metabolismo basal con persistencia de datos.
-- ✅ [Tasklist con TypeScript](https://github.com/tu-usuario/tasklist-app) – App de tareas conectada a una API JSON.
-- 🛒 [Sistema de pedidos demo](https://github.com/tu-usuario/order-system) – Gestión de pedidos con roles y carrito mejorado.
-- 🎯 [Landing Page para negocio](https://github.com/tu-usuario/landing-om-beauty) – Sitio web responsivo con integración de EmailJS.
+- 🧮 [Calculadora TMB](https://calculadora-tmb-three.vercel.app) – Cálculo de metabolismo basal con persistencia de datos.
+- ✅ [Tasklist con TypeScript](https://github.com/jaev1996/lista-tareas-ts) – App de tareas conectada a una API JSON.
+- 🛒 [Sistema de pedidos demo](https://github.com/jaev1996/demo-pedidos) – Gestión de pedidos con roles y carrito mejorado.
+- 🎯 [Landing Page para negocio](https://github.com/jaev1996/marketing-website) – Sitio web responsivo con integración de EmailJS.
 
 ## 🛠️ Stack actual
 
@@ -23,27 +23,10 @@ Soy desarrollador frontend con enfoque en tecnologías como **React**, **Tailwin
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-escalona-13345318a/)
 - 📧 escalonavielmajose@gmail.com 
 
-<!-- ¿Incluir correo? Descomenta la línea de abajo si decides agregarlo -->
 ---
+## 🌱 Filosofía personal
 
 > "No busco ser el mejor hoy, sino alguien mejor que ayer."
-
-
-
-<!--
-**jaev1996/jaev1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
